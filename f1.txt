@@ -1,3 +1,7 @@
+// JIRA-102 
+int k = 123;
+int j = 30;
+
 In F1 file --- Line 1
 In f1 file ---- Line 2
 In F1 file ---- Line 3
