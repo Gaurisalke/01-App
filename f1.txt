@@ -6,3 +6,4 @@ In F1 file --- Line 1
 In f1 file ---- Line 2
 In F1 file ---- Line 3
 String name = "Gauri";
+String clg = "MDIMRT";
