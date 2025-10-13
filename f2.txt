@@ -2,3 +2,7 @@ In F2 file.
 Changes Done
 //Changes from central repo
 // Working on Git fetch
+
+JIRA-121 changes 
+int p=20;
+int q=90;
